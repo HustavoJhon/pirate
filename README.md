@@ -41,12 +41,12 @@ MODELO / CONTROL / VISTA
 
 <picture>
   <a href="#"> 
-    <img width="300" align="left" src="mockups/Movil/movil.png">
+    <img width="300" align="center" src="Mockups/Movil/movil.png">
   </a>
 </picture>
 
 <picture>
   <a href="#"> 
-    <img width="300" align="right" src="mockups/Movil/movilWhite.png">
+    <img width="300" align="center" src="Mockups/Movil/movilWhite.png">
   </a>
 </picture>
