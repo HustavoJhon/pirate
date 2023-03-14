@@ -40,7 +40,7 @@ MODELO / CONTROL / VISTA
 <h2 align="left">Movil</h2>
 
 <picture>
-  <a href="#"> 
+  <a href="https://github.com/HustavoJhon/SENATI/tree/main/Mockups/Movil/Dark%20Mode#readme"> 
     <img width="300" align="center" src="Mockups/Movil/movil.png">
   </a>
 </picture>
