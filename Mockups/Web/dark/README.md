@@ -1,10 +1,10 @@
 # Dark Mode
 
 ## Login
-<img src="LOGIN.PNG">
+<img src="LOGIN.png">
 
 ## Home
-<img src="HOME.PNG">
+<img src="HOME.png">
 
 ## Store
 <img src="STORE.png">
@@ -16,4 +16,4 @@
 <img src="TOURNAMENTS.png">
 
 ## Rankings
-<img src="RANKINGs.png">
+<img src="RANKINGS.png">
