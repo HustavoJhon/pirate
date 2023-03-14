@@ -1,13 +1,13 @@
 # Dark Mode 
 
 ## Login
-<img src="Login.png">
+<img width="300" align="left" src="Login.png">
 
 ## Sing Up
-<img src="SignUp.png">
+<img width="300" align="left" src="SignUp.png">
 
 ## Menu
-<img src="Menu.png">
+<img width="300" align="left" src="Menu.png">
 
 ## Torunaments
-<img src="Tournaments.png">
+<img width="300" align="left" src="Tournaments.png">
