@@ -7,7 +7,6 @@ MODELO / CONTROL / VISTA
 ```
 
 ```css
-
 █████████████████████████████████████████████████████████████████████
 █─▄▄▄▄█─▄─▄─█▄─▄▄─██▀▄─██▄─▀█▀─▄███▄─▄▄─█▄─▄█▄─▄▄▀██▀▄─██─▄─▄─██▀▄─██
 █▄▄▄▄─███─████─▄█▀██─▀─███─█▄█─█████─▄▄▄██─███─▄─▄██─▀─████─████─▀─██
@@ -28,7 +27,9 @@ MODELO / CONTROL / VISTA
     <img src="doc/1screen.png" width="500" align="center">
 </picture>
 
-> El proyecto en cuestión se enfoca en la creación de una tienda virtual similar a Steam, la cual se distingue por una funcionalidad sobresaliente que permite a los usuarios comentar y calificar los juegos adquiridos, obteniendo así una visión general sobre el desempeño y calidad de cada título. Además, se incluirán secciones informativas sobre los Esports, tales como el ranking de jugadores o las competiciones más destacadas, así como una sección de entretenimiento que contendrá videos sobre la jugabilidad y noticias relevantes. 
+<br>
+
+<samp>El proyecto en cuestión se enfoca en la creación de una tienda virtual similar a Steam, la cual se distingue por una funcionalidad sobresaliente que permite a los usuarios comentar y calificar los juegos adquiridos, obteniendo así una visión general sobre el desempeño y calidad de cada título. Además, se incluirán secciones informativas sobre los Esports, tales como el ranking de jugadores o las competiciones más destacadas, así como una sección de entretenimiento que contendrá videos sobre la jugabilidad y noticias relevantes. <samp>
 
 <h1>
   <a href="#---------1">
@@ -36,6 +37,16 @@ MODELO / CONTROL / VISTA
 
 <br>
 
-<a src="./Mockups"> Mockups </a> 
+<h2 align="left">Movil</h2>
 
-<a src="./MySQL"> Data Base </a> 
+<picture>
+  <a href="#"> 
+    <img width="300" align="left" src="mockups/Movil/movil.png">
+  </a>
+</picture>
+
+<picture>
+  <a href="#"> 
+    <img width="300" align="right" src="mockups/Movil/movilWhite.png">
+  </a>
+</picture>
